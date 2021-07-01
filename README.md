@@ -1,6 +1,6 @@
-# androidx_flutter_test_app
+# androidx_flutter_Share_options_app
 
-A new Flutter project.
+Implementing the share options plugin in Flutter app
 
 ## Getting Started
 
